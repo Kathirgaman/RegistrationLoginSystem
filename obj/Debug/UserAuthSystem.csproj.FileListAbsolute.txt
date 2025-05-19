@@ -1,0 +1,15 @@
+C:\Users\krris\source\repos\UserAuthSystem\UserAuthSystem\obj\Debug\UserAuthSystem.csproj.AssemblyReference.cache
+C:\Users\krris\source\repos\UserAuthSystem\UserAuthSystem\obj\Debug\UserAuthSystem.DashboardForm.resources
+C:\Users\krris\source\repos\UserAuthSystem\UserAuthSystem\obj\Debug\UserAuthSystem.LoginForm.resources
+C:\Users\krris\source\repos\UserAuthSystem\UserAuthSystem\obj\Debug\UserAuthSystem.Form1.resources
+C:\Users\krris\source\repos\UserAuthSystem\UserAuthSystem\obj\Debug\UserAuthSystem.Properties.Resources.resources
+C:\Users\krris\source\repos\UserAuthSystem\UserAuthSystem\obj\Debug\UserAuthSystem.csproj.GenerateResource.cache
+C:\Users\krris\source\repos\UserAuthSystem\UserAuthSystem\obj\Debug\UserAuthSystem.csproj.CoreCompileInputs.cache
+C:\Users\krris\source\repos\UserAuthSystem\UserAuthSystem\bin\Debug\UserAuthSystem.exe.config
+C:\Users\krris\source\repos\UserAuthSystem\UserAuthSystem\bin\Debug\UserAuthSystem.exe
+C:\Users\krris\source\repos\UserAuthSystem\UserAuthSystem\bin\Debug\UserAuthSystem.pdb
+C:\Users\krris\source\repos\UserAuthSystem\UserAuthSystem\obj\Debug\UserAuthSystem.exe
+C:\Users\krris\source\repos\UserAuthSystem\UserAuthSystem\obj\Debug\UserAuthSystem.pdb
+C:\Users\krris\source\repos\UserAuthSystem\UserAuthSystem\obj\Debug\UserAuthSystem.exe.config
+C:\Users\krris\source\repos\UserAuthSystem\UserAuthSystem\obj\Debug\UserAuthSystem.ForgotPasswordForm.resources
+C:\Users\krris\source\repos\UserAuthSystem\UserAuthSystem\bin\Debug\users.txt
